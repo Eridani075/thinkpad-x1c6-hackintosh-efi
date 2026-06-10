@@ -57,6 +57,17 @@ The bundled ACPI tables match the upstream Tyler X1C6 repository byte-for-byte f
 4. Do not mix the Ventura Wi-Fi kext set with the Sequoia one.
 5. Recheck sleep and wake after any USB or Thunderbolt change.
 
+## Disclaimer
+
+This repository is provided for personal archival, research, and educational purposes only.
+
+- Use it at your own risk.
+- No warranty is provided.
+- The author is not responsible for data loss, boot failure, hardware issues, macOS update problems, account issues, or any other damage caused directly or indirectly by using this EFI.
+- This repository does not include macOS, macOS installers, recovery images, or any Apple copyrighted operating system files.
+- Please follow the licenses and terms of Apple, OpenCore, and all referenced third-party projects.
+- This archive is not commercial support and does not promise compatibility with your device.
+
 ## Notes
 
 - `USBToolBox.kext` removed
