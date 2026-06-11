@@ -1,5 +1,7 @@
 # ThinkPad X1 Carbon 6th Hackintosh EFI
 
+Language: [English](README.md) | **简体中文**
+
 这个仓库收录了 Lenovo ThinkPad X1 Carbon 6th 的两份 EFI 归档。
 
 已测试的 macOS 版本：
