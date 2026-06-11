@@ -1,5 +1,7 @@
 # ThinkPad X1 Carbon 6th Hackintosh EFI
 
+Chinese version: [README.zh-CN.md](README.zh-CN.md)
+
 This repository archives two tested EFI sets for the Lenovo ThinkPad X1 Carbon 6th.
 
 Tested macOS versions:
