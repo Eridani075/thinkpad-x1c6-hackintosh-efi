@@ -13,9 +13,9 @@ These archives are machine-specific and were verified on this exact ThinkPad. Th
 ## Warning 
 - There are some issues with audio layout that may cause audio distortion,additional latency,poping sounds,and other problems.
 - another issues, when your device has been in sleep mode for too long, it will be reboot and display
-'''
-0251:System CMOS Checksum bad - Default configuration used.
-'''
+
+`0251:System CMOS Checksum bad - Default configuration used.
+
 I try to change plist but it not work
 
 I've already sold this laptop so, Good luck for you lol.
