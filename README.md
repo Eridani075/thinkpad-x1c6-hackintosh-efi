@@ -10,6 +10,9 @@ Tested macOS versions:
 
 These archives are machine-specific and were verified on this exact ThinkPad. They are not guaranteed for other BIOS revisions, hardware swaps, or later macOS point releases.
 
+## Warning 
+- There are some issues with audio layout that may cause audio distortion,additional latency,poping sounds,and other problems.
+
 ## What works
 
 - Graphics
