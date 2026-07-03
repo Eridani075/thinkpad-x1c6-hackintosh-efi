@@ -12,7 +12,8 @@ Language: [English](README.md) | **简体中文**
 
 ## 一些问题
 - audio layout可能需要自己折腾一下 目前这个layout在插耳机大音量状况下会失真破音 外放还没试 我机器已经卖了 你们自己尝试罢（x
-
+- 睡眠太久会报cmos checksum问题然后重启 我改了plist 但是好像并没有用 或许需要一些其他的方法？
+   
 ## 已验证功能
 
 - 显卡
